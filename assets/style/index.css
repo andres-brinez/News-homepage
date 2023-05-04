@@ -95,3 +95,44 @@ hr{
     border: 1px solid #5F5F79;
     
 }
+
+
+/*  Blog New */
+
+.blogNew{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px 0;
+   
+}
+
+.blogNew img{
+    width: 40%;
+    height: 100%;
+    
+}
+
+.blogNew-text {
+    width: 60%;
+    padding: 0 20px;
+}
+
+.blogNew-text h3 {
+    font-size: 1.8rem;
+    color: #C7C6CF;
+    margin-bottom: 10px;
+}
+
+.blogNew-text h4{
+    font-size: 1.2rem;
+    color: #000019;
+    font-size: bolder;
+    margin-bottom: 10px;
+}
+
+.blogNew-text p {
+    font-size: 0.9rem;
+    color: #656368;
+    line-height: 24px;
+}
