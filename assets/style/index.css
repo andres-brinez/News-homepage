@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    padding: 18px;
+}
+
+.sectionHero{
+    margin-top: 30px;
+}* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.container-hero img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    
+}
+
+.hero-information h2 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: hsl(240, 100%, 5%);
+    margin: 20px 0 ;
+}
+
+.information-text p {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: hsl(236, 13%, 42%);
+    margin: 20px 0 ;
+    line-height: 26px;
+}
+
+.information-text a {
+    display: inline-block;
+    font-size: 0.95rem;
+    font-weight: 400;
+    background-color: hsl(5, 85%, 63%);
+    color: #fff;
+    margin: 6px 0 ;
+    line-height: 5px;
+    text-decoration: none;
+    padding: 20px;
+    letter-spacing: 4px;
+}
