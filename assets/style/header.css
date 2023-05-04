@@ -1,13 +1,4 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
-}
 
-body{
-    padding: 10px;
-}
 
 /* Clase para cuando se usa el menú de hamburguesa para que se vea oscuro  */
 .bodyNav{
@@ -25,10 +16,10 @@ header {
 
 /* Icono de hamburguesa */
 .hamburger {
-    position: fixed;
+    position: absolute;
     background-color: transparent;
-    right: 20px;
-    top: 0;
+    right: 28px;
+    top: 10px;
     height: 30px;
     width: 30px;
     padding: 20px 20px;
