@@ -5,6 +5,10 @@
     font-family: 'Inter', sans-serif;
 }
 
+body{
+    padding: 10px;
+}
+
 /* Clase para cuando se usa el menú de hamburguesa para que se vea oscuro  */
 .bodyNav{
     background-color: #807E89;
@@ -15,8 +19,8 @@
 /* Barra de navegacion  */
 header {
     display: flex;
-    padding: 10px 20px;
-    margin-top: 10px;
+    
+    
 }
 
 /* Icono de hamburguesa */
@@ -24,7 +28,7 @@ header {
     position: fixed;
     background-color: transparent;
     right: 20px;
-    top: 10px;
+    top: 0;
     height: 30px;
     width: 30px;
     padding: 20px 20px;
