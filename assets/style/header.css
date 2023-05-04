@@ -16,6 +16,7 @@
 header {
     display: flex;
     padding: 10px 20px;
+    margin-top: 10px;
 }
 
 /* Icono de hamburguesa */
@@ -23,7 +24,7 @@ header {
     position: fixed;
     background-color: transparent;
     right: 20px;
-    top: 0;
+    top: 10px;
     height: 30px;
     width: 30px;
     padding: 20px 20px;
