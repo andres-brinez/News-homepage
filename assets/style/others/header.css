@@ -1,0 +1,33 @@
+@media screen and (min-width: 750px) {
+
+    /* Barra de navegacion  */
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    /* Icono de hamburguesa */
+    .hamburger {
+        display: none;
+    }
+
+    /* Barra de navegación */
+    .barraNavegación {
+        width: 100%;
+        height: 100%;
+        overflow-y: auto;
+        position: static;
+    }
+
+    .barraNavegación ul {
+        margin: 0px;
+        display: flex;
+    }
+
+    .barraNavegación ul li {
+        padding: 0 0 0 45px;
+        font-size: 1.4rem;
+        color: #5f5f79;
+    }
+}
