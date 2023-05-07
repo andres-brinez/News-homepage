@@ -30,4 +30,11 @@
         font-size: 1.4rem;
         color: #5f5f79;
     }
+
+    .barraNavegación ul li:hover{
+        cursor: pointer;
+        color: hsl(5, 85%, 63%);;
+        transition: 1s color ease;
+
+    }
 }
