@@ -1,6 +1,11 @@
 
 # Frontend Mentor - News homepage solution
 
+Este proyecto es una solución al desafío "News Homepage" de Frontend Mentor. El objetivo del desafío es construir una página de inicio de noticias que se parezca lo más posible al diseño proporcionado.
+
+El proyecto utiliza HTML, CSS y  JavaScript básico. El proyecto es responsive y se adapta a diferentes tamaños de pantalla.
+
+
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
 
