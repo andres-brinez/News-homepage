@@ -1,0 +1,95 @@
+@media screen and (min-width:750px) {
+
+    body {
+        padding: 10px 60px;
+    }
+
+    .sectionHero {
+        margin-top: 50px;
+        display: flex;
+
+    }
+
+    .container-hero img {
+        width: 97%;
+        height: 50%;
+
+    }
+
+    .hero-information {
+        width: 97%;
+        padding: 10px 0 0px 10px;
+        display: flex;
+
+
+    }
+
+    .hero-information h2 {
+        font-size: 4rem;
+
+    }
+
+    .information-text {
+        width: 90%;
+        padding: 0 10px;
+        text-align: justify;
+
+    }
+
+    .information-text p {
+        font-size: 1rem;
+
+
+    }
+
+    .information-text a {
+
+        margin: 25px 0;
+
+        padding: 20px;
+
+    }
+
+    /* New */
+    .container-news {
+        margin: 0px;
+        width: 85%;
+        padding: 0px 30px;
+        height: 100%;
+    }
+
+
+    .container-news h3 {
+        margin: 20px 0;
+
+    }
+
+    .container-news p {
+
+        margin: 20px 0 54px 0;
+
+    }
+
+
+    /*  Blog New */
+
+    .blog{
+        display: flex;
+       
+        margin: 30px 0;
+
+    }
+
+
+    footer p,
+    footer a {
+        font-size: 1.1rem;
+       
+       
+    }
+
+  
+
+
+
+}
